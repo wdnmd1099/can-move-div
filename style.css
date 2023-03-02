@@ -1,0 +1,10 @@
+div{
+    background: rgb(179, 104, 104);
+    position: absolute;
+    width: 100px;
+    height: 100px;
+  }
+body{
+    background: gray;
+}
+*{margin:0; padding: 0;}
